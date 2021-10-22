@@ -21,7 +21,7 @@ object Hello extends Greeting with App {
   println(z29(List(1,2,3,4,5,6,7)),"z29")
   println(z31(List(("один",1),("два",2),("три",3))))
 }
- 
+
 trait Greeting {
   var check = false
 
