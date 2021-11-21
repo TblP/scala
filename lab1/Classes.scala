@@ -1,4 +1,4 @@
-package example.lab2
+package example.lab1
 
 /*
  * 

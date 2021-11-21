@@ -1,4 +1,4 @@
-package example.lab1
+package example.tasks
 
 object Hello extends Greeting with App {
 

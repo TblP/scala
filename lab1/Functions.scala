@@ -1,4 +1,4 @@
-package example.lab2
+package example.lab1
 
 /** Напишите отдельные функции, решающие поставленную задачу.
   * 
@@ -9,7 +9,7 @@ package example.lab2
   *   // значение
   *   val myFunction: (Int, String) => Double (param0, param1) => // тело
   */
-import example.lab2.Functions.{arearectangle, arearectangle2, calculateArea, testCircle, testRectangleCurried, testRectangleUc}
+import Functions.{arearectangle, arearectangle2, calculateArea, testCircle, testRectangleCurried, testRectangleUc}
 
 import scala.math._
 object Functions {

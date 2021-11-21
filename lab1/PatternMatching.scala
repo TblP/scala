@@ -1,4 +1,4 @@
-package example.lab2
+package example.lab1
 
 /** Напишите решение в виде функции.
   * 
@@ -50,7 +50,7 @@ object PatternMatching extends App{
       case 1 => "it is one"
       case 2 => "it is two"
       case 3 => "it is three"
-      case _ => "what's that"
+      case other => "what's that"
     }
   }
   // примените вашу функцию из пункта (a) здесь, не изменяя сигнатуру

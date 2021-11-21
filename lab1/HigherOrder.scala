@@ -1,4 +1,4 @@
-package example.lab2
+package example.lab1
 
 
 /** Напишите ваши решения в виде функций. */
